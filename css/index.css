@@ -47,8 +47,9 @@ body {
   padding-left: 50px;
 }
 main {
-  padding-top: 50px;
   padding-bottom: 50px;
+  padding-top: 50px;
+  
 }
 
 .list {
